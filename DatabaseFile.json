@@ -22,8 +22,23 @@
     },
     {
       "roomId": "HhVrDzdfsW-dS0YGOzrV3",
-      "messageId": "mBE0AghdK3uwb_yvX9n35",
-      "messageText": "Can anyone teach me RESTFul API?"
+      "messageId": "V-IQtRrIlk1m2UeXu6H1P",
+      "messageText": "Test"
+    },
+    {
+      "roomId": "HhVrDzdfsW-dS0YGOzrV3",
+      "messageId": "BnCsApiaV2uU2IaPTNkJ6",
+      "messageText": "Test"
+    },
+    {
+      "roomId": "HhVrDzdfsW-dS0YGOzrV3",
+      "messageId": "KNHpjwcP9xnNBEHo2LH6F",
+      "messageText": "Test"
+    },
+    {
+      "roomId": "HhVrDzdfsW-dS0YGOzrV3",
+      "messageId": "f2VGAGGdVnBU6RDxq-VPe",
+      "messageText": "Test"
     }
   ],
   "users": [
@@ -36,6 +51,11 @@
       "username": "user2",
       "password": "5678",
       "role": "SUPER_ADMIN"
+    },
+    {
+      "username": "user3",
+      "password": "1234",
+      "role": "GUEST"
     }
   ]
 }
